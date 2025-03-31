@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @Anunai6966  
-- 👀 I’m interested in ... Data Science, Machine Learning, AI, Full Stack Development, and DSA  
-- 🌱 I’m currently learning ... DSA, SQL, Python, and looking forward to mastering libraries like TensorFlow, PyTorch, Pandas, and NumPy  
-- 💻 I’m also exploring ... Web Development (MERN Stack) and database management  
-- 📫 How to reach me ...  
-  - **LinkedIn** – [Anunai Sai](https://www.linkedin.com/in/anunai-sai/)  
-  - **Email** – anunai6966L@gmail.com  
-  - **GitHub Projects** – Check out my work here!  
-  - **LeetCode** – [Anunai_](https://leetcode.com/u/Anunai_/)  
-  - **HackerRank** – [Anunai6966L](https://www.hackerrank.com/profile/anunai6966l)  
-  - **GeeksforGeeks** – [Your Profile Link] (Add your actual profile link here)  
+👋 Hi, I’m **L. Anunai Sai Goud**  
+=================================
+
+🚀 **Aspiring Techie | BTech CSE '26 | AI/ML Enthusiast | Full Stack Development | DSA Practitioner**  
+
+👀 **What I’m Passionate About**  
+--------------------------------  
+- **Machine Learning & AI** – Exploring deep learning, NLP, and computer vision.  
+- **Data Science** – Working with Python, SQL, and various data tools to extract insights.  
+- **Full Stack Development** – Learning MERN stack to build scalable web applications.  
+- **DSA & Problem Solving** – Practicing LeetCode & HackerRank to strengthen my coding skills.  
+
+🌱 **What I’m Currently Learning**  
+----------------------------------  
+- **Python & Advanced Libraries** – TensorFlow, PyTorch, Pandas, NumPy, and more.  
+- **SQL & Databases** – Structuring, managing, and optimizing data.  
+- **Web Development** – Mastering frontend & backend technologies.  
+
+📫 **Let's Connect!**  
+---------------------  
+🔗 **LinkedIn** – [Anunai Sai](https://www.linkedin.com/in/anunai-sai/)  
+📧 **Email** – anunai6966L@gmail.com    
+🔥 **LeetCode** – [Anunai_](https://leetcode.com/u/Anunai_/)  
+🏆 **HackerRank** – [Anunai6966L](https://www.hackerrank.com/profile/anunai6966l)  
+💻 **GitHub Projects** – Check out my work here!
 
 
 <!---
