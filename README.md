@@ -19,7 +19,7 @@
 
 📫 **Let's Connect!**  
 ---------------------  
-🔗 **LinkedIn** – [Anunai Sai]([https://www.linkedin.com/in/anunai/])  
+🔗 **LinkedIn** – [Anunai Sai](https://www.linkedin.com/in/anunai/)  
 📧 **Email** – anunai6966L@gmail.com    
 🔥 **LeetCode** – [Anunai_](https://leetcode.com/u/Anunai_/)  
 🏆 **HackerRank** – [Anunai6966L](https://www.hackerrank.com/profile/anunai6966l)  
