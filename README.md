@@ -1,32 +1,33 @@
-👋 Hi, I’m **L. Anunai Sai Goud**  
-=================================
+# 👋 Hi, I’m **L. Anunai Sai Goud**
 
-🚀 **Aspiring Techie | BTech CSE '26 | AI/ML Enthusiast | Data Analysist | DSA Practitioner**  
+🚀 **Aspiring Data Scientist & AI Enthusiast**  
+🎓 **B.Tech CSE '26 | Data Analyst | DSA Practitioner**
 
-👀 **What I’m Passionate About**  
---------------------------------  
-- **Machine Learning & AI** – Exploring deep learning, NLP, and computer vision.  
-- **Data Science** – Working with Python, SQL, and various data tools to extract insights.  
-- **DSA & Problem Solving** – Practicing LeetCode & HackerRank to strengthen my coding skills.
--  **Ai, Automations, Tools** – Mastering Ai and its advanced functionalities Agents, Automations and technologies.    
+---
 
-🌱 **What I’m Currently Learning**  
-----------------------------------  
-- **Python & Advanced Libraries** – TensorFlow, PyTorch, Pandas, NumPy, and more.  
-- **SQL & Databases** – Structuring, managing, and optimizing data.  
-- **Web Development** – Mastering frontend & backend technologies.
--  **Ai, Automations, Tools** – Mastering Ai and its advanced functionalities Agents, Automations and technologies.  
+## 🔹 About Me  
+I am passionate about solving problems using **Data Science, AI, and Automation**. With a strong foundation in **Python, SQL, and Machine Learning**, I enjoy building projects that combine **data-driven insights, AI-powered solutions, and automation tools**.  
+Currently, I’m sharpening my **DSA problem-solving skills** and working on projects that bridge **AI + real-world applications**.  
 
-📫 **Let's Connect!**  
----------------------  
-🔗 **LinkedIn** – [Anunai Sai](https://www.linkedin.com/in/anunai/)  
-📧 **Email** – anunai6966L@gmail.com    
-🔥 **LeetCode** – [Anunai_](https://leetcode.com/u/Anunai_/)  
-🏆 **HackerRank** – [Anunai6966L](https://www.hackerrank.com/profile/anunai6966l)  
-💻 **GitHub Projects** – Check out my work here!
+---
 
+## 🛠️ Tech Stack & Skills  
+- **Programming:** Python, SQL, Java (Basics)  
+- **Data Science & AI:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch  
+- **Automation & AI Agents:** Make.com, AI Automations, LLM-based Assistants  
+- **Web Development:** HTML, CSS, JavaScript, Flask  
+- **Version Control:** Git & GitHub  
 
-<!---
-Anunai6966/Anunai6966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📌 Featured Projects  
+🔹 [**Ghost AI – Personal Assistant**](https://github.com/Anunai6966/Ghost-AI-Personal-Assistant)  
+_A no-code AI personal assistant that integrates Google Calendar, automates tasks, and answers queries via Telegram using Gemini AI & Make.com._  
+
+🔹 [**Core Python Data Skills**](https://github.com/Anunai6966/Core_Python_Data_Skills)  
+_A collection of clean Jupyter Notebooks covering NumPy, Pandas, Visualization, and Exploratory Data Analysis (EDA)._  
+
+🔹 [**Image Generation using ComfyUI**](https://github.com/Anunai6966/image-generation-using-comfyUI)  
+_Internship project focused on AI image generation using Stable Diffusion & ComfyUI, with full documentation and outputs._  
+
+🔹 [**Web Development Journey**](https://github.com/Anunai6966/We)
