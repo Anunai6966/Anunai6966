@@ -1,20 +1,21 @@
 👋 Hi, I’m **L. Anunai Sai Goud**  
 =================================
 
-🚀 **Aspiring Techie | BTech CSE '26 | AI/ML Enthusiast | Full Stack Development | DSA Practitioner**  
+🚀 **Aspiring Techie | BTech CSE '26 | AI/ML Enthusiast | Data Analysist | DSA Practitioner**  
 
 👀 **What I’m Passionate About**  
 --------------------------------  
 - **Machine Learning & AI** – Exploring deep learning, NLP, and computer vision.  
 - **Data Science** – Working with Python, SQL, and various data tools to extract insights.  
-- **Full Stack Development** – Learning MERN stack to build scalable web applications.  
-- **DSA & Problem Solving** – Practicing LeetCode & HackerRank to strengthen my coding skills.  
+- **DSA & Problem Solving** – Practicing LeetCode & HackerRank to strengthen my coding skills.
+-  **Ai, Automations, Tools** – Mastering Ai and its advanced functionalities Agents, Automations and technologies.    
 
 🌱 **What I’m Currently Learning**  
 ----------------------------------  
 - **Python & Advanced Libraries** – TensorFlow, PyTorch, Pandas, NumPy, and more.  
 - **SQL & Databases** – Structuring, managing, and optimizing data.  
-- **Web Development** – Mastering frontend & backend technologies.  
+- **Web Development** – Mastering frontend & backend technologies.
+-  **Ai, Automations, Tools** – Mastering Ai and its advanced functionalities Agents, Automations and technologies.  
 
 📫 **Let's Connect!**  
 ---------------------  
