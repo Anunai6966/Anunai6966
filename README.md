@@ -27,7 +27,7 @@ _A no-code AI personal assistant that integrates Google Calendar, automates task
 🔹 [**Core Python Data Skills**](https://github.com/Anunai6966/Core_Python_Data_Skills)  
 _A collection of clean Jupyter Notebooks covering NumPy, Pandas, Visualization, and Exploratory Data Analysis (EDA)._  
 
-🔹 [**Image Generation using ComfyUI**](https://github.com/Anunai6966/image-generation-using-comfyUI)  
+🔹 [**Image Generation using ComfyUI**](https://github.com/Anunai6966/image-generation-using-comfyUI-)  
 _Internship project focused on AI image generation using Stable Diffusion & ComfyUI, with full documentation and outputs._  
 
 🔹 [**Web Development Journey**](https://github.com/Anunai6966/Web-Development-Journey)  
