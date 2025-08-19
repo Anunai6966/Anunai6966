@@ -30,4 +30,29 @@ _A collection of clean Jupyter Notebooks covering NumPy, Pandas, Visualization, 
 🔹 [**Image Generation using ComfyUI**](https://github.com/Anunai6966/image-generation-using-comfyUI)  
 _Internship project focused on AI image generation using Stable Diffusion & ComfyUI, with full documentation and outputs._  
 
-🔹 [**Web Development Journey**](https://github.com/Anunai6966/We)
+🔹 [**Web Development Journey**](https://github.com/Anunai6966/Web-Development-Journey)  
+_A compilation of frontend & full-stack web projects documenting my learning journey._  
+
+🔹 [**My Python Projects**](https://github.com/Anunai6966/My-Python-Projects)  
+_Fun and engaging Python projects showcasing my programming and problem-solving skills._  
+
+---
+
+## 📊 Current Focus  
+- Practicing **LeetCode** & **HackerRank** (DSA, problem-solving).  
+- Learning **ML/AI frameworks** (TensorFlow, PyTorch).  
+- Exploring **AI Agents & Automations**.  
+- Building **data-driven projects** & visualizations.  
+
+---
+
+## 📫 Let’s Connect  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/anunai/) |  
+🔥 [**LeetCode**](https://leetcode.com/u/Anunai_/) |  
+🏆 [**HackerRank**](https://www.hackerrank.com/profile/anunai6966l) |  
+💻 [**GitHub Projects**](https://github.com/Anunai6966) |  
+📧 **Email:** anunai6966L@gmail.com  
+
+---
+
+⚡ *“Data + AI + Problem-Solving → Building the future, one project at a time.”*  
